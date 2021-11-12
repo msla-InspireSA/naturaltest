@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31717.71
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "naturaltest", "naturaltest.csproj", "{12F51D0B-372F-4196-BDF2-9651EE1498FE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{12F51D0B-372F-4196-BDF2-9651EE1498FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12F51D0B-372F-4196-BDF2-9651EE1498FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12F51D0B-372F-4196-BDF2-9651EE1498FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12F51D0B-372F-4196-BDF2-9651EE1498FE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {76202BC4-D1EA-4F3D-BF6B-34B8D738822A}
+	EndGlobalSection
+EndGlobal
